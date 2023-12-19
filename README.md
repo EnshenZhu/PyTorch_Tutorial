@@ -19,3 +19,14 @@ PyTorch is a machine learning framework, and it specifically works on Deep Learn
 
 * Traditional Programming: Inputs+Rules --> Output
 * ML Algorithm: Input+Output --> Find the rule
+
+### Why use machine learning (or deep learning)?
+
+* For a complex problem, it is challenging to think of all the rules by humans' brain.
+  Therefore, we can ask the computer to think about it.
+* (Useful Link: https://developers.google.com/machine-learning)
+
+### What deep learning is good for?
+
+* **Problems with long lists of rules** --> when the traditional approach fails, machine learning/deep learning may
+  help.
